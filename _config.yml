@@ -16,10 +16,6 @@ defaults:
       layout: "post"
 
 topics:
-  - name: Linux
-    web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
-
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
@@ -27,3 +23,16 @@ topics:
   - name: Django
     web_url: https://github.com/topics/django
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
+
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
+
+  
+repositories:
+  - PoilAuNezWebApp
+  - PurBeurreWebApp
+  - grandpybot
+  - OpenFoodFacts
+  - DjangoWebSite
+  - macescapes
