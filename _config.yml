@@ -32,7 +32,7 @@ topics:
 repositories:
   - PoilAuNezWebApp
   - PurBeurreWebApp
-  - grandpybot
-  - OpenFoodFacts
   - DjangoWebSite
-  - macescapes
+  - DjangoTradingBot
+  - FarmManagement
+  - CVlatex
