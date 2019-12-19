@@ -30,9 +30,11 @@ topics:
 
   
 repositories:
+  - FarmManagement
+  - CanteraSongLyrics
+  - DjangoTradingBot
   - PoilAuNezWebApp
   - PurBeurreWebApp
-  - DjangoWebSite
-  - DjangoTradingBot
-  - FarmManagement
+  - grandpybot
+  - DjangoWebSite  
   - CVlatex
